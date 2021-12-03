@@ -1,0 +1,54 @@
+@font-face {
+    font-family: 'font_padrao';
+    src: url('../font/TitilliumWeb-Black.ttf');
+}
+html,body{
+    width: 100%; 
+    height:100%;
+    margin-top: -3.1%;
+    margin-left: 0%;
+}
+h4{
+    font-family: 'font_padrao'; 
+    font-size: 80%;
+    position: absolute;
+    margin-left: 35%;
+    margin-top: 7%;
+    color: rgba(217, 217,217, 250);
+}
+.materia{
+    margin-left: 20%;
+   width: 60%; 
+   height: 40%; 
+   background-color: red;
+   margin-top: 1%;
+  
+}
+.fotinha{
+    width: 50%; 
+    height: 70%; 
+    border: 1px solid black;
+}
+.aprender{
+    width: 40%; 
+    height: 20%; 
+    border: 1px solid black;
+    float: right; 
+    margin-top: -50%; 
+    margin-right: 5%;
+}
+.simulado{
+   width: 40%; 
+   height: 20%; 
+   border: 1px solid black;
+   float: right; 
+   margin-top: -25%;
+   margin-right: 5%;
+}
+.nomemat{
+    width: 95%; 
+    height: 25%; 
+    border: 1px solid black;
+    margin-top: 2%;
+    margin-left: 2.4%;
+}
